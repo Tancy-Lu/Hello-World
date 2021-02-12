@@ -2,7 +2,6 @@
 # Description
 # How to run program
 # Files used 
-# Additional documentation
 # Versioning
 # Confused question
 # Hello-World
